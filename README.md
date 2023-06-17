@@ -1,1 +1,1 @@
-# SQL-Beginner-Level-Project(Digital Music Store Analysis)
+# SQL-Beginner-Level-Project
