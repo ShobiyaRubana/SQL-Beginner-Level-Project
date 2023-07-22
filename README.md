@@ -1,1 +1,1 @@
-# SQL-Beginner-Level-Project(SQL Data Exploration)
+# SQL Project(SQL Data Exploration)
