@@ -12,7 +12,7 @@ Question Set 2: (Level- Moderate)
  -Return all the track names that have a song length longer than the average song length. Return the name & milliseconds for each track. Order by the song length with the longest song listed first.
 
 
-Question Set 3: (Advance)
+Question Set 3: (Level- Advance)
  -Find how much amount spent by each customer on artists? Write a query to return customer name, artist name & total spent.
  -We want to find out the most popular Music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top genre. For countries where the maximum number of purchases is shared return all genre.
  -Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer & how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
